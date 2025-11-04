@@ -763,6 +763,10 @@ body.dark-theme{
   transition: background-color .4s;
 }
 
+.centered-card {
+  grid-column: 1 / -1;
+}
+
 .projects__image{
   position: relative;
   margin-bottom: .75rem;
